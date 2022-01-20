@@ -6,6 +6,12 @@ Generating an avi stream:
 ffmpeg -f lavfi -i testsrc=d=10:s=640x480:r=24,format=rgb24 -f lavfi -i sine=f=440:b=4 -shortest -f avi -vcodec rawvideo -pix_fmt rgb24 output.avi
 ```
 
+FFmpeg may report this warning, which is safe to ignore:
+
+```
+[avi @ 0x5589b8e7f580] rgb24 rawvideo cannot be written to avi, output file will be unreadable
+```
+
 Playing that output:
 
 ```sh
