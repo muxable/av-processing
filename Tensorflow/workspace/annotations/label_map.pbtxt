@@ -1,0 +1,36 @@
+item { 
+	name:'man'
+	id:1
+}
+item { 
+	name:'woman'
+	id:2
+}
+item { 
+	name:'person'
+	id:3
+}
+item { 
+	name:'tree'
+	id:4
+}
+item { 
+	name:'car'
+	id:5
+}
+item { 
+	name:'bus'
+	id:6
+}
+item { 
+	name:'bicycle'
+	id:7
+}
+item { 
+	name:'cat'
+	id:8
+}
+item { 
+	name:'dog'
+	id:9
+}

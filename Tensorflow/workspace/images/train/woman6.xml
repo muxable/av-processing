@@ -1,0 +1,26 @@
+<annotation>
+	<folder>woman</folder>
+	<filename>woman6.jpg</filename>
+	<path>C:\Users\binda\Desktop\TFODCourse\Tensorflow\workspace\images\collectedimages\woman\woman6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>woman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>19</ymin>
+			<xmax>378</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

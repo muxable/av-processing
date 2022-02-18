@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dog</folder>
+	<filename>dog10.jpg</filename>
+	<path>C:\Users\binda\Desktop\TFODCourse\Tensorflow\workspace\images\collectedimages\dog\dog10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1884</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>376</ymin>
+			<xmax>1444</xmax>
+			<ymax>1813</ymax>
+		</bndbox>
+	</object>
+</annotation>

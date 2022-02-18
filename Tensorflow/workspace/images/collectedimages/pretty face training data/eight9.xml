@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8</folder>
+	<filename>eight9.jpg</filename>
+	<path>C:\Users\binda\Desktop\TFODCourse\Tensorflow\workspace\images\collectedimages\8\eight9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>776</width>
+		<height>1030</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>29</ymin>
+			<xmax>617</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

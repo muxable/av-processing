@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>ten9.jpg</filename>
+	<path>C:\Users\binda\Desktop\TFODCourse\Tensorflow\workspace\images\collectedimages\10\ten9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>479</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>13</ymin>
+			<xmax>288</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

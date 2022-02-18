@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>four5.jpg</filename>
+	<path>C:\Users\binda\Desktop\TFODCourse\Tensorflow\workspace\images\collectedimages\4\four5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1491</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>87</ymin>
+			<xmax>962</xmax>
+			<ymax>1113</ymax>
+		</bndbox>
+	</object>
+</annotation>

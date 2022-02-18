@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tree</folder>
+	<filename>tree7.jpg</filename>
+	<path>C:\Users\binda\Desktop\TFODCourse\Tensorflow\workspace\images\collectedimages\tree\tree7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>638</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>47</ymin>
+			<xmax>552</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>
